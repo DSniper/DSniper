@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DSniper
+- 👋 Hi, I’m Daisy Manmohan Singh
 - 👀 I’m interested in Appian Full Stack and Devops. 
 - 🌱 I’m currently Certified Senior Appian Developer and learning Devops.
 - 💞️ I’m looking to collaborate on Appian and Devops 
