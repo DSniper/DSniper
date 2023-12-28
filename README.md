@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Daisy Manmohan Singh</h1>
-<h3 align="center">A Robust Full Stack developer from India Handling End To End DPA Requirements and a Great Mentor For Your Team . So Why Wait lets Connect.</h3>
+<h3 align="center">A Robust Full-stack developer from India Handling end-to-end DPA Requirements and a Great Mentor For Your Team. So Why Wait lets Connect.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsniper&label=Profile%20views&color=0e75b6&style=flat" alt="dsniper" /> </p>
 
@@ -31,4 +32,5 @@
 <!---
 DSniper/DSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 --->
